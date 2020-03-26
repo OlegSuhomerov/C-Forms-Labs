@@ -1,0 +1,10 @@
+D:\WindowsForms\1\1 Taks 2\1 Taks 2\bin\Debug\1 Taks 2.exe.config
+D:\WindowsForms\1\1 Taks 2\1 Taks 2\bin\Debug\1 Taks 2.exe
+D:\WindowsForms\1\1 Taks 2\1 Taks 2\bin\Debug\1 Taks 2.pdb
+D:\WindowsForms\1\1 Taks 2\1 Taks 2\obj\Debug\1 Taks 2.csprojAssemblyReference.cache
+D:\WindowsForms\1\1 Taks 2\1 Taks 2\obj\Debug\_1_Taks_2.Properties.Resources.resources
+D:\WindowsForms\1\1 Taks 2\1 Taks 2\obj\Debug\1 Taks 2.csproj.GenerateResource.cache
+D:\WindowsForms\1\1 Taks 2\1 Taks 2\obj\Debug\1 Taks 2.exe
+D:\WindowsForms\1\1 Taks 2\1 Taks 2\obj\Debug\1 Taks 2.pdb
+D:\WindowsForms\1\1 Taks 2\1 Taks 2\obj\Debug\_1_Taks_2.Form1.resources
+D:\WindowsForms\1\1 Taks 2\1 Taks 2\obj\Debug\_1_Taks_2.Form2.resources

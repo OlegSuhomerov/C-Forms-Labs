@@ -1,0 +1,8 @@
+D:\WindowsForms\2\Example 1\Example 1\bin\Debug\Example 1.exe.config
+D:\WindowsForms\2\Example 1\Example 1\bin\Debug\Example 1.exe
+D:\WindowsForms\2\Example 1\Example 1\bin\Debug\Example 1.pdb
+D:\WindowsForms\2\Example 1\Example 1\obj\Debug\Example_1.Form1.resources
+D:\WindowsForms\2\Example 1\Example 1\obj\Debug\Example_1.Properties.Resources.resources
+D:\WindowsForms\2\Example 1\Example 1\obj\Debug\Example 1.csproj.GenerateResource.cache
+D:\WindowsForms\2\Example 1\Example 1\obj\Debug\Example 1.exe
+D:\WindowsForms\2\Example 1\Example 1\obj\Debug\Example 1.pdb

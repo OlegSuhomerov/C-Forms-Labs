@@ -1,0 +1,9 @@
+D:\WindowsForms\2\TestList\TestList\bin\Debug\TestList.exe.config
+D:\WindowsForms\2\TestList\TestList\bin\Debug\TestList.exe
+D:\WindowsForms\2\TestList\TestList\bin\Debug\TestList.pdb
+D:\WindowsForms\2\TestList\TestList\obj\Debug\TestList.csprojAssemblyReference.cache
+D:\WindowsForms\2\TestList\TestList\obj\Debug\TestList.Form1.resources
+D:\WindowsForms\2\TestList\TestList\obj\Debug\TestList.Properties.Resources.resources
+D:\WindowsForms\2\TestList\TestList\obj\Debug\TestList.csproj.GenerateResource.cache
+D:\WindowsForms\2\TestList\TestList\obj\Debug\TestList.exe
+D:\WindowsForms\2\TestList\TestList\obj\Debug\TestList.pdb

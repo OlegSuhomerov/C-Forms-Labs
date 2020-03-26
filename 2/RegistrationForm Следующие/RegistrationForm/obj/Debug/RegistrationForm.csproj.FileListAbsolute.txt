@@ -1,0 +1,18 @@
+D:\WindowsForms\2\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe.config
+D:\WindowsForms\2\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe
+D:\WindowsForms\2\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.pdb
+D:\WindowsForms\2\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csprojAssemblyReference.cache
+D:\WindowsForms\2\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.Form1.resources
+D:\WindowsForms\2\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.Properties.Resources.resources
+D:\WindowsForms\2\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csproj.GenerateResource.cache
+D:\WindowsForms\2\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.exe
+D:\WindowsForms\2\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.pdb
+D:\WindowsForms\2\RegistrationForm Следующие\RegistrationForm\bin\Debug\RegistrationForm.exe.config
+D:\WindowsForms\2\RegistrationForm Следующие\RegistrationForm\bin\Debug\RegistrationForm.exe
+D:\WindowsForms\2\RegistrationForm Следующие\RegistrationForm\bin\Debug\RegistrationForm.pdb
+D:\WindowsForms\2\RegistrationForm Следующие\RegistrationForm\obj\Debug\RegistrationForm.csprojAssemblyReference.cache
+D:\WindowsForms\2\RegistrationForm Следующие\RegistrationForm\obj\Debug\RegistrationForm.Form1.resources
+D:\WindowsForms\2\RegistrationForm Следующие\RegistrationForm\obj\Debug\RegistrationForm.Properties.Resources.resources
+D:\WindowsForms\2\RegistrationForm Следующие\RegistrationForm\obj\Debug\RegistrationForm.csproj.GenerateResource.cache
+D:\WindowsForms\2\RegistrationForm Следующие\RegistrationForm\obj\Debug\RegistrationForm.exe
+D:\WindowsForms\2\RegistrationForm Следующие\RegistrationForm\obj\Debug\RegistrationForm.pdb
