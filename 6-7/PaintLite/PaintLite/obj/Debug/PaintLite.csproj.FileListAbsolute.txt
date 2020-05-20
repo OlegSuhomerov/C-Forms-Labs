@@ -1,0 +1,20 @@
+E:\Gor-C#\PaintLite\PaintLite\bin\Debug\PaintLite.exe.config
+E:\Gor-C#\PaintLite\PaintLite\bin\Debug\PaintLite.exe
+E:\Gor-C#\PaintLite\PaintLite\bin\Debug\PaintLite.pdb
+E:\Gor-C#\PaintLite\PaintLite\obj\Debug\PaintLite.csprojResolveAssemblyReference.cache
+E:\Gor-C#\PaintLite\PaintLite\obj\Debug\PaintLite.Form1.resources
+E:\Gor-C#\PaintLite\PaintLite\obj\Debug\PaintLite.Properties.Resources.resources
+E:\Gor-C#\PaintLite\PaintLite\obj\Debug\PaintLite.csproj.GenerateResource.Cache
+E:\Gor-C#\PaintLite\PaintLite\obj\Debug\PaintLite.csproj.CoreCompileInputs.cache
+E:\Gor-C#\PaintLite\PaintLite\obj\Debug\PaintLite.exe
+E:\Gor-C#\PaintLite\PaintLite\obj\Debug\PaintLite.pdb
+D:\3 курс\C#\PaintLite\PaintLite\bin\Debug\PaintLite.exe.config
+D:\3 курс\C#\PaintLite\PaintLite\bin\Debug\PaintLite.exe
+D:\3 курс\C#\PaintLite\PaintLite\bin\Debug\PaintLite.pdb
+D:\3 курс\C#\PaintLite\PaintLite\obj\Debug\PaintLite.csprojAssemblyReference.cache
+D:\3 курс\C#\PaintLite\PaintLite\obj\Debug\PaintLite.Form1.resources
+D:\3 курс\C#\PaintLite\PaintLite\obj\Debug\PaintLite.Properties.Resources.resources
+D:\3 курс\C#\PaintLite\PaintLite\obj\Debug\PaintLite.csproj.GenerateResource.cache
+D:\3 курс\C#\PaintLite\PaintLite\obj\Debug\PaintLite.csproj.CoreCompileInputs.cache
+D:\3 курс\C#\PaintLite\PaintLite\obj\Debug\PaintLite.exe
+D:\3 курс\C#\PaintLite\PaintLite\obj\Debug\PaintLite.pdb
